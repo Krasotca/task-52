@@ -1,0 +1,15 @@
+D:\Семинар 7С#\Задача52\задача52\bin\Debug\net6.0\задача52.exe
+D:\Семинар 7С#\Задача52\задача52\bin\Debug\net6.0\задача52.deps.json
+D:\Семинар 7С#\Задача52\задача52\bin\Debug\net6.0\задача52.runtimeconfig.json
+D:\Семинар 7С#\Задача52\задача52\bin\Debug\net6.0\задача52.dll
+D:\Семинар 7С#\Задача52\задача52\bin\Debug\net6.0\задача52.pdb
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.csproj.AssemblyReference.cache
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.AssemblyInfoInputs.cache
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.AssemblyInfo.cs
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.csproj.CoreCompileInputs.cache
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.dll
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\refint\задача52.dll
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.pdb
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\задача52.genruntimeconfig.cache
+D:\Семинар 7С#\Задача52\задача52\obj\Debug\net6.0\ref\задача52.dll
